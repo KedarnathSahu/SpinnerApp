@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string name="spinner">Spinner</string>
+    <string name="custom_spinner">Custom Spinner</string>
+
+    <string-array name="social_media">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Linkedin</item>
+        <item>Skype</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Whatsapp</item>
+        <item>Youtube</item>
+    </string-array>
+
+    <string-array name="social_media_link">
+        <item>www.facebook.com/</item>
+        <item>www.instagram.com/</item>
+        <item>www.linkedin.com/start/join</item>
+        <item>www.skype.com/en/</item>
+        <item>www.snapchat.com</item>
+        <item>www.twitter.com/login?lang=en</item>
+        <item>www.whatsapp.com/</item>
+        <item>www.youtube.com/?gl=US</item>
+    </string-array>
+
+</resources>
